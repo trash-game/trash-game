@@ -1,47 +1,40 @@
-# 👋 Xin chào, mình là Nguyễn Hữu Trọng!
-
-### 🚀 Sinh viên Công nghệ Thông tin Năm 2
-
-Mình là một sinh viên IT đang trong quá trình khám phá và chinh phục thế giới lập trình. Hiện tại, mình đang tập trung phát triển tư duy logic và kỹ năng xây dựng ứng dụng thông qua các ngôn ngữ phổ biến.
+# Hi, I'm Trọng! 👋
 
 ---
 
-### 🛠 Kỹ năng & Công cụ (Tech Stack)
+### 🚀 About Me: IT Student & Developer
 
-* **Ngôn ngữ lập trình chính:**
-    * ![C#]
-    * ![C++]
-    * ![JavaScript]
+* 🛡️ **Focus:** Currently a 2nd-year IT student, passionate about software development and problem solving.
+* 💻 **Languages:** Proficient in **C++** and **C#** for building robust applications and mastering logic.
+* 🌐 **Web Development:** Experienced with **JavaScript**, HTML, and CSS to create interactive user interfaces.
+* 📚 **Learning:** Deepening knowledge in Data Structures, Algorithms, and modern frameworks.
+* 🛠️ **Version Control:** Actively managing academic projects and personal labs on GitHub.
 
-* **Công cụ & Môi trường:**
-    * ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-    * ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-    * ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+💬 **Philosophy:** "Consistency is the key to mastering any technology."
 
 ---
 
-### 🌱 Định hướng hiện tại
+### 🛠️ My Toolbox
 
-- 🔭 **Dự án:** Đang thực hiện các project nhỏ bằng C# và JavaScript để củng cố kiến thức.
-- 📚 **Học tập:** Tìm hiểu sâu hơn về cấu trúc dữ liệu giải thuật với C++ và các framework Web.
-- 💬 **Sẵn sàng chia sẻ:** Các bài tập C++, logic lập trình cơ bản.
-
----
-
-### 📊 Thống kê GitHub của mình
-
-| **GitHub Stats** | **Top Languages** |
-| :---: | :---: |
-| ![Trọng's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight) |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | C#, C++, JavaScript, HTML, CSS |
+| **Development** | .NET Core, Algorithms, Basic Web Dev |
+| **DevOps/Tools** | Git, GitHub, VS Code, Visual Studio |
 
 ---
 
-### 📫 Liên hệ với mình
+### 🍕 Favorite Quote
 
-- 📧 Email: [Goodluckhavefun03@gmail.com](mailto:Goodluckhavefun03@gmail.com)
-- 💼 LinkedIn: 
+*"The best way to predict the future is to invent it."*
 
 ---
-<p align="center">
-  <i>"Học không bao giờ là muộn, quan trọng là bắt đầu từ hôm nay!"</i>
-</p>
+
+### 📫 Let's Connect
+
+* 📧 **Email:** [Goodluckhavefun03@gmail.com](mailto:Goodluckhavefun03@gmail.com)
+* 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tr%E1%BB%8Dng-nguy%E1%BB%85n-h%E1%BB%AFu-8866843a3/)
+
+---
+
+⭐ *If you find my work helpful, feel free to explore my repositories and leave a star!*
